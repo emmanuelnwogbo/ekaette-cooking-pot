@@ -1,0 +1,14 @@
+{
+  "name": "joydaniel",
+  "version": "1.0.0",
+  "description": "front end for a restaurant website",
+  "main": "index.html",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css"
+  },
+  "author": "nerdyemmanuel@gmsil.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.8.3"
+  }
+}
