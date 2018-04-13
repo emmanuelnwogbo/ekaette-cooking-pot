@@ -460,6 +460,9 @@ body {
   transform: skewY(-7deg);
   margin-top: -9rem;
   z-index: 700; }
+  @media (max-width: 37.5em) {
+    .section-features {
+      background-image: linear-gradient(to right top, rgba(126, 213, 111, 0.8), rgba(203, 84, 4, 0.9)), url(../img/tablefood.jpg); } }
   .section-features > * {
     transform: skewY(7deg); }
   @media (max-width: 56.25em) {
